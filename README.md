@@ -1,4 +1,4 @@
-# Staticki analizator za x86-64 asembler
+# Statički analizator za x86-64 asembler
 
 Ovaj projekat implementira statički analizator za x86-64 asembler programe.
 
